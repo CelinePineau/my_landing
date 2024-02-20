@@ -1,0 +1,17 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: rgb(62, 58, 58);
+}
+
+.footer p {
+  color: grey;
+}
+
+.footer .fas {
+  color: red;
+}
+
+.footer .fab {
+  color: rgb(159, 237, 159);
+}
